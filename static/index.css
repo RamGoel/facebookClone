@@ -1,0 +1,57 @@
+.bg12{
+    background-color: #1877f2;
+    border: none;
+}
+.bg123{
+    background-color:rgb(62, 197, 62);
+    border: none;
+}
+
+.form1{
+    width: 200px;
+}
+
+.Main{
+    margin: auto;
+   
+    padding-top: 10px;
+}
+
+.xy1{
+    border: none;
+}
+.hy1{
+    height: 110px;
+}
+
+.ju1{font-size:27px;
+
+}
+
+.xz1{
+    border: 1px solid rgb(215, 209, 209) ;
+}
+
+.xzx1{
+    text-decoration: none;
+    color:  #1877f2;
+    
+}
+
+.xzx1 :hover{
+    color: red;
+}
+
+
+
+.yt1{
+    margin-left: 120px;
+}
+.yt2{
+    margin-left: 100px;
+}
+
+
+.tdn{
+    text-decoration: none;
+}
